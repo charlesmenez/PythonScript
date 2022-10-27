@@ -11,7 +11,7 @@
 
 ### Prerequisites
 
-**NetworkManager-dmenu***
+**NetworkManager-dmenu**
 - dmenu
 - NetworkManager
 
